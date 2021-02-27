@@ -1,0 +1,9 @@
+[submodule "dat110-project2-startcode"]
+	path = dat110-project2-startcode
+	url = https://github.com/h582618/dat110-project2-startcode.git
+[submodule "dat110-project2-chapp"]
+	path = dat110-project2-chapp
+	url = https://github.com/selabhvl/dat110-project2-chapp.git
+[submodule "dat110-project2-testing"]
+	path = dat110-project2-testing
+	url = https://github.com/selabhvl/dat110-project2-testing.git
